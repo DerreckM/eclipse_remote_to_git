@@ -1,0 +1,10 @@
+{"shapes":[
+{"type": "Circle", "left": 125, "top": 150, "right": 325, "bottom": 350, "x":-1, "y":1, "rotation":-2, "color": 2013200384},
+{"type": "Square", "left": 20,  "top":130,   "right":120,  "bottom":210,  "x":2, "y":-3, "rotation":3, "color":4278255360 },
+{"type": "Circle", "left": 175, "top": 200, "right": 275, "bottom": 300, "x":-1, "y":1, "rotation":-2, "color": 2013200384},
+{"type": "Square", "left": 35,  "top": 45,  "right": 115, "bottom": 125, "x":-1, "y":1, "rotation":-2, "color": 2013200384},
+{"type": "Line",   "left": 150,  "top": 80,  "right": 220, "bottom": 110, "x":-1, "y":1, "rotation":-2, "color": 2013200384},
+{"type": "Line",   "left": 150,  "top": 90,  "right": 220, "bottom": 120, "x":-1, "y":1, "rotation":-2, "color": 2013200384},
+{"type": "Triangle","left": 100,  "top": 250,  "right": 120, "bottom": 320, "x":-1, "y":1, "rotation":-2, "color": 2147418112},
+{"type": "Junk",   "left": 50,  "top": 50,  "right": 150, "bottom": 50, "x":-1, "y":1, "rotation":-2, "color": 2013200384}
+]}
