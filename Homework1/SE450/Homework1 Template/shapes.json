@@ -1,0 +1,5 @@
+{"shapes":[
+{"type": "Circle", "left": 150, "top": 150, "right": 400, "bottom": 400},
+{"type": "Square","left": 25,"top": 25,"right": 175,"bottom": 175},
+{"type": "Line","left": 50,"top": 50,"right": 150,"bottom": 50}
+]}
